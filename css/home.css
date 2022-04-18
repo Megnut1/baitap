@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0 auto;
+    list-style: none;
+    text-decoration: none;
+}
+.tagline{
+    display: flex;
+    width: 1200px;
+    background: red;
+}
